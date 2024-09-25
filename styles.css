@@ -1,0 +1,20 @@
+body {
+	background-color: #d6e0f0;
+	font-family: cursive;
+}
+img {
+	height: 400px;
+	width: 250px;
+}
+hr {
+	background-color: #358273;
+	height: 10px;
+}
+.star {
+	text-align: center;
+	margin: auto;
+	font-size: 25px;
+}
+h2 {
+	text-shadow: #FF0 1px 0 10px;
+}
