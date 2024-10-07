@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: #404;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.dice {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.player {
+    margin: 0 50px;
+}
+
+.dice-image {
+    width: 150px;
+    height: 150px;
+}
+
+#title {
+    font-size: 40px;
+    color: lightgreen;
+}
